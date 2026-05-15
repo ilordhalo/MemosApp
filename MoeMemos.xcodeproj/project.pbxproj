@@ -741,7 +741,7 @@
 				CODE_SIGN_ENTITLEMENTS = MoeMemosWidgets/MoeMemosWidgetsExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 49;
-				DEVELOPMENT_TEAM = AHAQ4D2466;
+				DEVELOPMENT_TEAM = RH487T77ZJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MoeMemosWidgets/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = MoeMemosWidgets;
@@ -753,11 +753,11 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mudkip.MoeMemos.MoeMemosWidgets;
+				PRODUCT_BUNDLE_IDENTIFIER = lord.MoeMemos.MoeMemosWidgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -775,7 +775,7 @@
 				CODE_SIGN_ENTITLEMENTS = MoeMemosWidgets/MoeMemosWidgetsExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 49;
-				DEVELOPMENT_TEAM = AHAQ4D2466;
+				DEVELOPMENT_TEAM = RH487T77ZJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MoeMemosWidgets/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = MoeMemosWidgets;
@@ -787,11 +787,11 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mudkip.MoeMemos.MoeMemosWidgets;
+				PRODUCT_BUNDLE_IDENTIFIER = lord.MoeMemos.MoeMemosWidgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -929,12 +929,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 49;
 				DEVELOPMENT_ASSET_PATHS = "\"MoeMemos/Preview Content\"";
-				DEVELOPMENT_TEAM = AHAQ4D2466;
+				DEVELOPMENT_TEAM = RH487T77ZJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MoeMemos/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = MoeMemos;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Capture photos and attach to memos";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -946,10 +947,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mudkip.MoeMemos;
+				PRODUCT_BUNDLE_IDENTIFIER = lord.MoeMemos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -968,12 +969,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 49;
 				DEVELOPMENT_ASSET_PATHS = "\"MoeMemos/Preview Content\"";
-				DEVELOPMENT_TEAM = AHAQ4D2466;
+				DEVELOPMENT_TEAM = RH487T77ZJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MoeMemos/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = MoeMemos;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Capture photos and attach to memos";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -985,10 +987,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mudkip.MoeMemos;
+				PRODUCT_BUNDLE_IDENTIFIER = lord.MoeMemos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1005,7 +1007,7 @@
 				CODE_SIGN_ENTITLEMENTS = MoeMemosShareExtension/MoeMemosShareExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 49;
-				DEVELOPMENT_TEAM = AHAQ4D2466;
+				DEVELOPMENT_TEAM = RH487T77ZJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MoeMemosShareExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = MoeMemosShareExtension;
@@ -1017,11 +1019,11 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mudkip.MoeMemos.MoeMemosShareExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = lord.MoeMemos.MoeMemosShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1037,7 +1039,7 @@
 				CODE_SIGN_ENTITLEMENTS = MoeMemosShareExtension/MoeMemosShareExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 49;
-				DEVELOPMENT_TEAM = AHAQ4D2466;
+				DEVELOPMENT_TEAM = RH487T77ZJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MoeMemosShareExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = MoeMemosShareExtension;
@@ -1049,11 +1051,11 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.6.1;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mudkip.MoeMemos.MoeMemosShareExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = lord.MoeMemos.MoeMemosShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;

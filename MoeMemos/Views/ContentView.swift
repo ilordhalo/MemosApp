@@ -44,6 +44,7 @@ struct ContentView: View {
             .modelContext(appInfo.modelContext)
             .sheet(isPresented: $accountViewModel.showingAddAccount) {
                 AddAccountView()
+                    .environment(accountManager)
                     .tint(.green)
             }
     }
